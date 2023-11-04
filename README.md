@@ -1,4 +1,4 @@
-# National Elementary School IT Contest 2005 - School Cinema Website Archive
+# Elementary School IT Contest 2005 - School Cinema Website Archive
 Last edit: Mar 29, 2005
 
 This repository is a time capsule for the website created as an entry for the National IT Contest in 2005. The site served as a vibrant introduction to our school's cinema program, showcasing our history, achievements, and various artworks contributed by the students.
